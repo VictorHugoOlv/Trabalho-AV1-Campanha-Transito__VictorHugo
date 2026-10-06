@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+ Sem vítimas       0.39      0.48      0.43      2228
+ Com vítimas       0.90      0.86      0.88     12278
+
+    accuracy                           0.80     14506
+   macro avg       0.64      0.67      0.65     14506
+weighted avg       0.82      0.80      0.81     14506

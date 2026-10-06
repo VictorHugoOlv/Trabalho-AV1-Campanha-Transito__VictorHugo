@@ -1,0 +1,691 @@
+﻿atributo,importancia
+cat__tipo_acidente_Incêndio,0.4578842489823976
+cat__causa_acidente_Ingestão de álcool pelo condutor,0.16278492142785286
+num__pessoas,0.08479245882122577
+cat__tipo_acidente_Tombamento,0.07923151793081483
+cat__tipo_acidente_Queda de ocupante de veículo,0.07677786786341055
+cat__tipo_acidente_Atropelamento de Pedestre,0.07332600433327094
+cat__tipo_acidente_Colisão frontal,0.0370598601659377
+num__hora,0.007675459968653966
+num__km,0.005740553796585943
+cat__causa_acidente_Entrada inopinada do pedestre,0.0034699335489627196
+num__veiculos,0.0028225647526405584
+cat__fase_dia_Pleno dia,0.0018739394366409897
+num__br,0.0018596259911492926
+cat__sentido_via_Crescente,0.0013043592854139294
+cat__condicao_metereologica_Nublado,0.0010657229172042996
+cat__tipo_pista_Dupla,0.0008542426286382603
+cat__fase_dia_Plena Noite,0.0008222840266395191
+cat__uf_PB,0.00033903775712574094
+cat__uf_MS,0.00016274518407486662
+cat__uf_RJ,0.0001526511813596611
+cat__tracado_via_Ponte;Em Obras,0.0
+cat__tracado_via_Ponte;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Ponte;Declive;Reta,0.0
+cat__tracado_via_Ponte;Em Obras;Reta,0.0
+cat__tracado_via_Reta;Aclive;Em Obras,0.0
+cat__tracado_via_Ponte;Interseção de Vias;Reta,0.0
+cat__tracado_via_Ponte;Reta,0.0
+cat__tracado_via_Ponte;Declive;Curva,0.0
+cat__tracado_via_Ponte;Reta;Declive,0.0
+cat__tracado_via_Ponte;Reta;Declive;Em Obras,0.0
+cat__tracado_via_Ponte;Reta;Em Obras,0.0
+cat__tracado_via_Reta;Aclive,0.0
+cat__tracado_via_Ponte;Viaduto,0.0
+cat__tracado_via_Reta,0.0
+cat__tracado_via_Ponte;Reta;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Túnel;Reta;Declive,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Curva,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Declive,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Reta,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Rotatória;Curva,0.0
+cat__tracado_via_Reta;Aclive;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Ponte,0.0
+cat__tracado_via_Ponte;Aclive,0.0
+cat__tracado_via_Ponte;Aclive;Curva,0.0
+cat__tracado_via_Ponte;Aclive;Reta,0.0
+cat__tracado_via_Ponte;Curva,0.0
+cat__tracado_via_Ponte;Curva;Aclive,0.0
+cat__tracado_via_Ponte;Curva;Declive,0.0
+cat__tracado_via_Ponte;Declive,0.0
+cat__tracado_via_Interseção de Vias;Viaduto;Rotatória;Ponte,0.0
+cat__tracado_via_Reta;Desvio Temporário;Declive,0.0
+cat__tracado_via_Reta;Desvio Temporário;Declive;Em Obras,0.0
+cat__tracado_via_Reta;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Reta;Desvio Temporário;Em Obras;Aclive,0.0
+cat__tracado_via_Reta;Desvio Temporário;Ponte,0.0
+cat__tracado_via_Reta;Desvio Temporário;Túnel;Em Obras,0.0
+cat__tracado_via_Reta;Em Obras,0.0
+cat__tracado_via_Reta;Em Obras;Aclive,0.0
+cat__tracado_via_Reta;Em Obras;Aclive;Desvio Temporário,0.0
+cat__tracado_via_Reta;Em Obras;Declive,0.0
+cat__tracado_via_Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Reta;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Reta;Em Obras;Desvio Temporário;Declive,0.0
+cat__tracado_via_Reta;Em Obras;Desvio Temporário;Interseção de Vias,0.0
+cat__tracado_via_Reta;Em Obras;Interseção de Vias,0.0
+cat__tracado_via_Reta;Em Obras;Ponte,0.0
+cat__tracado_via_Reta;Em Obras;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Em Obras;Rotatória,0.0
+cat__tracado_via_Reta;Interseção de Vias,0.0
+cat__tracado_via_Reta;Interseção de Vias;Aclive,0.0
+cat__tracado_via_Reta;Interseção de Vias;Desvio Temporário,0.0
+cat__tracado_via_Reta;Em Obras;Declive;Desvio Temporário,0.0
+cat__tracado_via_Reta;Aclive;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Reta;Aclive;Em Obras;Viaduto,0.0
+cat__tracado_via_Reta;Aclive;Interseção de Vias,0.0
+cat__tracado_via_Reta;Aclive;Interseção de Vias;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Aclive;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Reta;Aclive;Ponte,0.0
+cat__tracado_via_Reta;Aclive;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Aclive;Rotatória,0.0
+cat__tracado_via_Reta;Aclive;Viaduto,0.0
+cat__tracado_via_Reta;Declive,0.0
+cat__tracado_via_Reta;Desvio Temporário;Aclive;Em Obras,0.0
+cat__tracado_via_Reta;Declive;Em Obras,0.0
+cat__tracado_via_Reta;Declive;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Reta;Declive;Interseção de Vias,0.0
+cat__tracado_via_Reta;Declive;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Reta;Declive;Ponte,0.0
+cat__tracado_via_Reta;Declive;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Declive;Retorno Regulamentado;Interseção de Vias,0.0
+cat__tracado_via_Reta;Declive;Rotatória,0.0
+cat__tracado_via_Reta;Declive;Rotatória;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Declive;Viaduto,0.0
+cat__tracado_via_Reta;Desvio Temporário,0.0
+cat__tracado_via_Reta;Declive;Desvio Temporário,0.0
+cat__tracado_via_Interseção de Vias;Curva,0.0
+cat__tracado_via_Interseção de Vias;Curva;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Curva;Aclive;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Curva;Declive,0.0
+cat__tracado_via_Interseção de Vias;Curva;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Curva;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Curva;Retorno Regulamentado;Declive,0.0
+cat__tracado_via_Interseção de Vias;Curva;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Curva;Rotatória;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Curva;Viaduto,0.0
+cat__tracado_via_Reta;Interseção de Vias;Declive,0.0
+cat__tracado_via_Interseção de Vias;Declive;Curva,0.0
+cat__tracado_via_Interseção de Vias;Declive;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Declive;Reta,0.0
+cat__tracado_via_Interseção de Vias;Declive;Reta;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Declive;Reta;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Declive;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Declive;Rotatória;Curva,0.0
+cat__tracado_via_Interseção de Vias;Declive;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Desvio Temporário,0.0
+cat__tracado_via_Interseção de Vias;Desvio Temporário;Em Obras;Reta,0.0
+cat__tracado_via_Interseção de Vias;Declive,0.0
+cat__tracado_via_Em Obras;Reta;Desvio Temporário,0.0
+cat__tracado_via_Em Obras;Reta;Desvio Temporário;Viaduto,0.0
+cat__tracado_via_Em Obras;Reta;Interseção de Vias,0.0
+cat__tracado_via_Em Obras;Reta;Ponte,0.0
+cat__tracado_via_Em Obras;Reta;Rotatória,0.0
+cat__tracado_via_Em Obras;Reta;Viaduto,0.0
+cat__tracado_via_Em Obras;Retorno Regulamentado,0.0
+cat__tracado_via_Em Obras;Retorno Regulamentado;Aclive;Interseção de Vias,0.0
+cat__tracado_via_Em Obras;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Em Obras;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Interseção de Vias;Aclive;Viaduto;Reta,0.0
+cat__tracado_via_Em Obras;Rotatória;Reta,0.0
+cat__tracado_via_Em Obras;Viaduto,0.0
+cat__tracado_via_Em Obras;Viaduto;Desvio Temporário,0.0
+cat__tracado_via_Em Obras;Viaduto;Reta,0.0
+cat__tracado_via_Interseção de Vias,0.0
+cat__tracado_via_Interseção de Vias;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Aclive;Curva,0.0
+cat__tracado_via_Interseção de Vias;Aclive;Em Obras;Reta,0.0
+cat__tracado_via_Interseção de Vias;Aclive;Reta,0.0
+cat__tracado_via_Interseção de Vias;Aclive;Reta;Rotatória,0.0
+cat__tracado_via_Em Obras;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Declive;Curva,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Em Obras;Curva,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Reta;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Reta;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Reta;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Rotatória;Declive,0.0
+cat__tracado_via_Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Curva,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Declive,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Reta,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Túnel;Curva,0.0
+cat__tracado_via_Interseção de Vias;Rotatória;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Em Obras;Curva,0.0
+cat__tracado_via_Interseção de Vias;Em Obras;Reta,0.0
+cat__tracado_via_Interseção de Vias;Em Obras;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Em Obras;Viaduto;Reta,0.0
+cat__tracado_via_Interseção de Vias;Ponte;Curva,0.0
+cat__tracado_via_Interseção de Vias;Ponte;Curva;Aclive;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Reta,0.0
+cat__tracado_via_Interseção de Vias;Reta;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Reta;Aclive;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Reta;Declive,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado;Aclive;Reta,0.0
+cat__tracado_via_Interseção de Vias;Reta;Em Obras,0.0
+cat__tracado_via_Interseção de Vias;Reta;Ponte,0.0
+cat__tracado_via_Interseção de Vias;Reta;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Reta;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Reta;Rotatória;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Reta;Viaduto,0.0
+cat__tracado_via_Interseção de Vias;Reta;Viaduto;Aclive,0.0
+cat__tracado_via_Interseção de Vias;Reta;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Reta;Viaduto;Rotatória,0.0
+cat__tracado_via_Interseção de Vias;Retorno Regulamentado,0.0
+cat__tracado_via_Interseção de Vias;Reta;Declive;Em Obras,0.0
+cat__tracado_via_Rotatória;Em Obras,0.0
+cat__tracado_via_Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Rotatória;Interseção de Vias;Curva,0.0
+cat__tracado_via_Rotatória;Interseção de Vias;Declive,0.0
+cat__tracado_via_Rotatória;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Rotatória;Interseção de Vias;Reta,0.0
+cat__tracado_via_Rotatória;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Rotatória;Interseção de Vias;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Rotatória;Ponte,0.0
+cat__tracado_via_Em Obras;Reta;Desvio Temporário;Interseção de Vias,0.0
+cat__tracado_via_Rotatória;Reta;Declive,0.0
+cat__tracado_via_Rotatória;Reta;Interseção de Vias,0.0
+cat__tracado_via_Rotatória;Reta;Interseção de Vias;Aclive,0.0
+cat__tracado_via_Rotatória;Reta;Retorno Regulamentado,0.0
+cat__tracado_via_Rotatória;Reta;Retorno Regulamentado;Declive,0.0
+cat__tracado_via_Rotatória;Retorno Regulamentado,0.0
+cat__tracado_via_Rotatória;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Rotatória;Retorno Regulamentado;Interseção de Vias,0.0
+cat__tracado_via_Rotatória;Retorno Regulamentado;Viaduto,0.0
+cat__uf_AC,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Viaduto,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado;Rotatória;Aclive;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Rotatória;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Rotatória;Viaduto,0.0
+cat__tracado_via_Rotatória;Desvio Temporário;Reta;Em Obras,0.0
+cat__tracado_via_Rotatória,0.0
+cat__tracado_via_Rotatória;Aclive,0.0
+cat__tracado_via_Rotatória;Aclive;Curva,0.0
+cat__tracado_via_Rotatória;Aclive;Reta,0.0
+cat__tracado_via_Rotatória;Curva,0.0
+cat__tracado_via_Rotatória;Curva;Interseção de Vias,0.0
+cat__tracado_via_Rotatória;Declive,0.0
+cat__tracado_via_Rotatória;Declive;Interseção de Vias,0.0
+cat__tracado_via_Rotatória;Desvio Temporário,0.0
+cat__tracado_via_Rotatória;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Retorno Regulamentado;Viaduto,0.0
+cat__uf_AM,0.0
+cat__tracado_via_Viaduto;Declive;Rotatória,0.0
+cat__tracado_via_Viaduto;Em Obras;Reta,0.0
+cat__tracado_via_Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Viaduto;Interseção de Vias;Curva,0.0
+cat__tracado_via_Viaduto;Interseção de Vias;Ponte;Reta;Em Obras,0.0
+cat__tracado_via_Viaduto;Interseção de Vias;Reta,0.0
+cat__tracado_via_Viaduto;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Viaduto;Reta,0.0
+cat__tracado_via_Rotatória;Viaduto,0.0
+cat__tracado_via_Viaduto;Reta;Declive,0.0
+cat__tracado_via_Viaduto;Reta;Interseção de Vias,0.0
+cat__tracado_via_Viaduto;Reta;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Viaduto;Reta;Rotatória,0.0
+cat__tracado_via_Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Viaduto;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Viaduto;Rotatória,0.0
+cat__tracado_via_Viaduto;Rotatória;Retorno Regulamentado,0.0
+cat__uso_solo_Não,0.0
+cat__uso_solo_Sim,0.0
+cat__tracado_via_Viaduto;Reta;Aclive,0.0
+cat__tracado_via_Rotatória;Viaduto;Curva,0.0
+cat__tracado_via_Rotatória;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Túnel,0.0
+cat__tracado_via_Túnel;Aclive;Reta,0.0
+cat__tracado_via_Túnel;Curva,0.0
+cat__tracado_via_Túnel;Interseção de Vias;Viaduto;Reta,0.0
+cat__tracado_via_Túnel;Reta,0.0
+cat__tracado_via_Viaduto,0.0
+cat__tracado_via_Viaduto;Aclive,0.0
+cat__tracado_via_Viaduto;Declive;Curva,0.0
+cat__tracado_via_Viaduto;Aclive;Reta,0.0
+cat__tracado_via_Viaduto;Curva,0.0
+cat__tracado_via_Viaduto;Curva;Aclive,0.0
+cat__uf_AP,0.0
+cat__tracado_via_Viaduto;Curva;Declive;Em Obras,0.0
+cat__tracado_via_Viaduto;Curva;Interseção de Vias,0.0
+cat__tracado_via_Viaduto;Curva;Ponte,0.0
+cat__tracado_via_Viaduto;Curva;Retorno Regulamentado,0.0
+cat__tracado_via_Viaduto;Curva;Retorno Regulamentado;Declive,0.0
+cat__tracado_via_Viaduto;Declive,0.0
+cat__tracado_via_Viaduto;Aclive;Curva,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Túnel;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Viaduto,0.0
+cat__tracado_via_Reta;Rotatória,0.0
+cat__tracado_via_Reta;Rotatória;Aclive,0.0
+cat__tracado_via_Reta;Rotatória;Declive,0.0
+cat__tracado_via_Reta;Rotatória;Em Obras,0.0
+cat__tracado_via_Reta;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Reta;Rotatória;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Interseção de Vias;Rotatória;Em Obras,0.0
+cat__tracado_via_Reta;Rotatória;Viaduto,0.0
+cat__tracado_via_Reta;Túnel,0.0
+cat__tracado_via_Reta;Viaduto,0.0
+cat__tracado_via_Reta;Viaduto;Aclive,0.0
+cat__tracado_via_Reta;Viaduto;Declive,0.0
+cat__tracado_via_Reta;Viaduto;Em Obras,0.0
+cat__tracado_via_Reta;Viaduto;Em Obras;Declive,0.0
+cat__tracado_via_Reta;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Reta;Viaduto;Interseção de Vias;Retorno Regulamentado;Rotatória;Em Obras,0.0
+cat__tracado_via_Reta;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Rotatória;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Reta;Interseção de Vias;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Reta;Interseção de Vias;Ponte,0.0
+cat__tracado_via_Reta;Interseção de Vias;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Reta;Interseção de Vias;Rotatória;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Interseção de Vias;Rotatória;Viaduto,0.0
+cat__tracado_via_Reta;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Reta;Interseção de Vias;Viaduto;Declive,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Interseção de Vias,0.0
+cat__tracado_via_Reta;Ponte,0.0
+cat__tracado_via_Reta;Ponte;Aclive,0.0
+cat__tracado_via_Reta;Ponte;Declive,0.0
+cat__tracado_via_Reta;Ponte;Em Obras,0.0
+cat__tracado_via_Reta;Ponte;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Reta;Ponte;Interseção de Vias,0.0
+cat__tracado_via_Reta;Retorno Regulamentado,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Aclive,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Aclive;Rotatória,0.0
+cat__tracado_via_Reta;Retorno Regulamentado;Declive,0.0
+cat__tracado_via_Reta;Interseção de Vias;Viaduto;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Aclive;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Aclive;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Aclive;Reta;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Em Obras;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Reta;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Reta;Túnel;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Viaduto;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Viaduto;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Viaduto;Rotatória;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Aclive,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Em Obras,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Interseção de Vias;Aclive,0.0
+cat__tracado_via_Retorno Regulamentado;Reta;Interseção de Vias;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Retorno Regulamentado;Aclive,0.0
+cat__tracado_via_Retorno Regulamentado;Aclive;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Aclive;Em Obras,0.0
+cat__tracado_via_Retorno Regulamentado;Aclive;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Aclive;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Aclive;Viaduto;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Aclive,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Interseção de Vias;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Rotatória,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Túnel;Viaduto,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Viaduto,0.0
+cat__tracado_via_Retorno Regulamentado;Declive,0.0
+cat__tracado_via_Retorno Regulamentado;Declive;Curva,0.0
+cat__tracado_via_Retorno Regulamentado;Declive;Reta,0.0
+cat__tracado_via_Retorno Regulamentado;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Retorno Regulamentado;Em Obras,0.0
+cat__tracado_via_Retorno Regulamentado;Curva;Interseção de Vias,0.0
+cat__tipo_acidente_Saída de leito carroçável,0.0
+cat__tipo_acidente_Sinistro pessoal de trânsito,0.0
+cat__fase_dia_Amanhecer,0.0
+cat__fase_dia_Anoitecer,0.0
+cat__sentido_via_Decrescente,0.0
+cat__sentido_via_Não Informado,0.0
+cat__condicao_metereologica_Chuva,0.0
+cat__condicao_metereologica_Céu Claro,0.0
+cat__condicao_metereologica_Garoa/Chuvisco,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Reta,0.0
+cat__condicao_metereologica_Neve,0.0
+cat__condicao_metereologica_Nevoeiro/Neblina,0.0
+cat__condicao_metereologica_Sol,0.0
+cat__condicao_metereologica_Vento,0.0
+cat__tipo_pista_Múltipla,0.0
+cat__tipo_pista_Simples,0.0
+cat__tracado_via_Aclive,0.0
+cat__tracado_via_Aclive;Curva,0.0
+cat__tracado_via_Aclive;Curva;Em Obras,0.0
+cat__tracado_via_Aclive;Curva;Interseção de Vias,0.0
+cat__condicao_metereologica_Ignorado,0.0
+cat__causa_acidente_Semáforo com defeito,0.0
+cat__causa_acidente_Sinalização mal posicionada,0.0
+cat__causa_acidente_Suicídio (presumido),0.0
+cat__causa_acidente_Trafegar com motocicleta (ou similar) entre as faixas,0.0
+cat__causa_acidente_Transitar na calçada,0.0
+cat__causa_acidente_Transitar na contramão,0.0
+cat__causa_acidente_Transitar no Acostamento,0.0
+cat__causa_acidente_Transtornos Mentais (exceto suicidio),0.0
+cat__causa_acidente_Ultrapassagem Indevida,0.0
+cat__tipo_acidente_Eventos atípicos,0.0
+cat__causa_acidente_Área urbana sem a presença de local apropriado para a travessia de pedestres,0.0
+cat__tipo_acidente_Atropelamento de Animal,0.0
+cat__tipo_acidente_Capotamento,0.0
+cat__tipo_acidente_Colisão com objeto,0.0
+cat__tipo_acidente_Colisão lateral mesmo sentido,0.0
+cat__tipo_acidente_Colisão lateral sentido oposto,0.0
+cat__tipo_acidente_Colisão transversal,0.0
+cat__tipo_acidente_Colisão traseira,0.0
+cat__tipo_acidente_Derramamento de carga,0.0
+cat__tipo_acidente_Engavetamento,0.0
+cat__causa_acidente_Velocidade Incompatível,0.0
+cat__tracado_via_Aclive;Reta;Interseção de Vias,0.0
+cat__tracado_via_Aclive;Reta;Ponte,0.0
+cat__tracado_via_Aclive;Reta;Retorno Regulamentado,0.0
+cat__tracado_via_Aclive;Reta;Retorno Regulamentado;Interseção de Vias,0.0
+cat__tracado_via_Aclive;Reta;Rotatória,0.0
+cat__tracado_via_Aclive;Reta;Viaduto,0.0
+cat__tracado_via_Aclive;Retorno Regulamentado,0.0
+cat__tracado_via_Aclive;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Aclive;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Aclive;Curva;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Aclive;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Aclive;Viaduto,0.0
+cat__tracado_via_Aclive;Viaduto;Curva,0.0
+cat__tracado_via_Aclive;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Aclive;Viaduto;Reta,0.0
+cat__tracado_via_Curva,0.0
+cat__tracado_via_Curva;Aclive,0.0
+cat__tracado_via_Curva;Aclive;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Curva;Aclive;Em Obras,0.0
+cat__tracado_via_Curva;Aclive;Interseção de Vias,0.0
+cat__tracado_via_Aclive;Rotatória,0.0
+cat__tracado_via_Aclive;Curva;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Aclive;Curva;Ponte,0.0
+cat__tracado_via_Aclive;Curva;Retorno Regulamentado,0.0
+cat__tracado_via_Aclive;Curva;Rotatória,0.0
+cat__tracado_via_Aclive;Curva;Túnel,0.0
+cat__tracado_via_Aclive;Curva;Viaduto,0.0
+cat__tracado_via_Aclive;Desvio Temporário;Ponte;Curva,0.0
+cat__tracado_via_Aclive;Em Obras,0.0
+cat__tracado_via_Aclive;Em Obras;Curva,0.0
+cat__tracado_via_Aclive;Reta;Em Obras,0.0
+cat__tracado_via_Aclive;Em Obras;Reta,0.0
+cat__tracado_via_Aclive;Interseção de Vias,0.0
+cat__tracado_via_Aclive;Interseção de Vias;Curva,0.0
+cat__tracado_via_Aclive;Interseção de Vias;Reta,0.0
+cat__tracado_via_Aclive;Interseção de Vias;Reta;Retorno Regulamentado,0.0
+cat__tracado_via_Aclive;Interseção de Vias;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Aclive;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Aclive;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Aclive;Ponte;Reta,0.0
+cat__tracado_via_Aclive;Reta,0.0
+cat__tracado_via_Aclive;Em Obras;Desvio Temporário,0.0
+cat__uf_BA,0.0
+cat__uf_TO,0.0
+cat__dia_semana_domingo,0.0
+cat__dia_semana_quarta-feira,0.0
+cat__dia_semana_quinta-feira,0.0
+cat__dia_semana_segunda-feira,0.0
+cat__dia_semana_sexta-feira,0.0
+cat__dia_semana_sábado,0.0
+cat__dia_semana_terça-feira,0.0
+cat__causa_acidente_Retorno proibido,0.0
+cat__causa_acidente_Acesso irregular,0.0
+cat__causa_acidente_Acostamento em desnível,0.0
+cat__causa_acidente_Acumulo de areia ou detritos sobre o pavimento,0.0
+cat__causa_acidente_Acumulo de água sobre o pavimento,0.0
+cat__causa_acidente_Acumulo de óleo sobre o pavimento,0.0
+cat__causa_acidente_Afundamento ou ondulação no pavimento,0.0
+cat__causa_acidente_Animais na Pista,0.0
+cat__causa_acidente_Ausência de reação do condutor,0.0
+cat__causa_acidente_Ausência de sinalização,0.0
+cat__causa_acidente_Avarias e/ou desgaste excessivo no pneu,0.0
+cat__causa_acidente_Acessar a via sem observar a presença dos outros veículos,0.0
+cat__uf_DF,0.0
+cat__uf_ES,0.0
+cat__uf_GO,0.0
+cat__uf_MA,0.0
+cat__uf_MG,0.0
+cat__uf_MT,0.0
+cat__uf_PA,0.0
+cat__uf_PE,0.0
+cat__uf_PI,0.0
+cat__uf_SE,0.0
+cat__tracado_via_Rotatória;Reta,0.0
+cat__causa_acidente_Condutor desrespeitou a iluminação vermelha do semáforo,0.0
+cat__tracado_via_Viaduto;Declive;Reta,0.0
+cat__tracado_via_Viaduto;Curva;Declive,0.0
+cat__uf_SP,0.0
+cat__uf_RN,0.0
+cat__uf_RO,0.0
+cat__uf_RR,0.0
+cat__uf_RS,0.0
+cat__uf_SC,0.0
+cat__uf_PR,0.0
+cat__causa_acidente_Fumaça,0.0
+cat__causa_acidente_Iluminação deficiente,0.0
+cat__causa_acidente_Ingestão de substâncias psicoativas pelo condutor,0.0
+cat__causa_acidente_Mal súbito do condutor,0.0
+cat__causa_acidente_Manobra de mudança de faixa,0.0
+cat__causa_acidente_Modificação proibida,0.0
+cat__causa_acidente_Neblina,0.0
+cat__causa_acidente_Objeto estático sobre o leito carroçável,0.0
+cat__causa_acidente_Participar de racha,0.0
+cat__causa_acidente_Carga excessiva e/ou mal acondicionada,0.0
+cat__causa_acidente_Pedestre andava na pista,0.0
+cat__causa_acidente_Pedestre cruzava a pista fora da faixa,0.0
+cat__causa_acidente_Pista Escorregadia,0.0
+cat__causa_acidente_Pista esburacada,0.0
+cat__causa_acidente_Problema com o freio,0.0
+cat__causa_acidente_Problema na suspensão,0.0
+cat__causa_acidente_Reação tardia ou ineficiente do condutor,0.0
+cat__causa_acidente_Redutor de velocidade em desacordo,0.0
+cat__causa_acidente_Restrição de visibilidade em curvas horizontais,0.0
+cat__causa_acidente_Restrição de visibilidade em curvas verticais,0.0
+cat__causa_acidente_Pedestre - Ingestão de álcool/ substâncias psicoativas,0.0
+cat__causa_acidente_Chuva,0.0
+cat__causa_acidente_Condutor Dormindo,0.0
+cat__causa_acidente_Condutor deixou de manter distância do veículo da frente,0.0
+cat__uf_AL,0.0
+cat__causa_acidente_Condutor usando celular,0.0
+cat__causa_acidente_Conversão proibida,0.0
+cat__causa_acidente_Curva acentuada,0.0
+cat__causa_acidente_Declive acentuado,0.0
+cat__causa_acidente_Deficiência do Sistema de Iluminação/Sinalização,0.0
+cat__causa_acidente_Frear bruscamente,0.0
+cat__causa_acidente_Demais Fenômenos da natureza,0.0
+cat__causa_acidente_Demais falhas mecânicas ou elétricas,0.0
+cat__causa_acidente_Demais falhas na via,0.0
+cat__causa_acidente_Desrespeitar a preferência no cruzamento,0.0
+cat__causa_acidente_Desvio temporário,0.0
+cat__causa_acidente_Estacionar ou parar em local proibido,0.0
+cat__causa_acidente_Faixas de trânsito com largura insuficiente,0.0
+cat__causa_acidente_Falta de acostamento,0.0
+cat__causa_acidente_Falta de elemento de contenção que evite a saída do leito carroçável,0.0
+cat__causa_acidente_Faróis desregulados,0.0
+cat__causa_acidente_Deixar de acionar o farol da motocicleta (ou similar),0.0
+cat__tracado_via_Desvio Temporário;Declive;Em Obras,0.0
+cat__tracado_via_Desvio Temporário;Declive;Em Obras;Viaduto,0.0
+cat__tracado_via_Desvio Temporário;Declive;Reta,0.0
+cat__tracado_via_Desvio Temporário;Declive;Viaduto;Reta,0.0
+cat__tracado_via_Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Aclive,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Aclive;Curva,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Curva,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Declive,0.0
+cat__tracado_via_Curva;Aclive;Ponte,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Declive;Reta,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Reta,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Reta;Aclive,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Reta;Declive,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Reta;Interseção de Vias;Retorno Regulamentado;Rotatória,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Rotatória,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Viaduto,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Viaduto;Declive,0.0
+cat__tracado_via_Desvio Temporário;Interseção de Vias;Curva,0.0
+cat__tracado_via_Desvio Temporário;Interseção de Vias;Curva;Em Obras,0.0
+cat__tracado_via_Desvio Temporário;Em Obras;Declive;Curva,0.0
+cat__tracado_via_Declive;Retorno Regulamentado;Curva,0.0
+cat__tracado_via_Declive;Retorno Regulamentado;Interseção de Vias;Rotatória;Desvio Temporário,0.0
+cat__tracado_via_Declive;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Declive;Rotatória,0.0
+cat__tracado_via_Declive;Rotatória;Curva,0.0
+cat__tracado_via_Declive;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Declive;Rotatória;Reta,0.0
+cat__tracado_via_Declive;Rotatória;Viaduto,0.0
+cat__tracado_via_Declive;Viaduto,0.0
+cat__tracado_via_Desvio Temporário;Declive;Curva,0.0
+cat__tracado_via_Declive;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Declive;Viaduto;Interseção de Vias;Reta,0.0
+cat__tracado_via_Declive;Viaduto;Reta,0.0
+cat__tracado_via_Declive;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Declive;Viaduto;Rotatória,0.0
+cat__tracado_via_Desvio Temporário,0.0
+cat__tracado_via_Desvio Temporário;Aclive;Curva,0.0
+cat__tracado_via_Desvio Temporário;Aclive;Curva;Em Obras,0.0
+cat__tracado_via_Desvio Temporário;Curva,0.0
+cat__tracado_via_Desvio Temporário;Curva;Em Obras,0.0
+cat__tracado_via_Declive;Viaduto;Curva,0.0
+cat__tracado_via_Em Obras;Declive;Reta,0.0
+cat__tracado_via_Em Obras;Declive;Reta;Rotatória,0.0
+cat__tracado_via_Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Em Obras;Desvio Temporário;Curva,0.0
+cat__tracado_via_Em Obras;Desvio Temporário;Reta,0.0
+cat__tracado_via_Em Obras;Desvio Temporário;Reta;Declive,0.0
+cat__tracado_via_Em Obras;Desvio Temporário;Retorno Regulamentado,0.0
+cat__tracado_via_Em Obras;Desvio Temporário;Rotatória;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Em Obras;Desvio Temporário;Viaduto;Reta,0.0
+cat__tracado_via_Desvio Temporário;Reta,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Desvio Temporário,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Ponte,0.0
+cat__uf_CE,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Reta;Rotatória,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Em Obras;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Em Obras;Reta,0.0
+cat__tracado_via_Em Obras;Reta;Aclive,0.0
+cat__tracado_via_Em Obras;Reta;Declive,0.0
+cat__tracado_via_Em Obras;Interseção de Vias,0.0
+cat__tracado_via_Desvio Temporário;Reta;Declive,0.0
+cat__tracado_via_Desvio Temporário;Reta;Em Obras,0.0
+cat__tracado_via_Desvio Temporário;Reta;Em Obras;Aclive,0.0
+cat__tracado_via_Desvio Temporário;Retorno Regulamentado;Em Obras,0.0
+cat__tracado_via_Desvio Temporário;Retorno Regulamentado;Reta;Em Obras;Interseção de Vias,0.0
+cat__tracado_via_Em Obras,0.0
+cat__tracado_via_Em Obras;Aclive,0.0
+cat__tracado_via_Em Obras;Aclive;Curva,0.0
+cat__tracado_via_Em Obras;Aclive;Curva;Retorno Regulamentado,0.0
+cat__tracado_via_Em Obras;Declive;Desvio Temporário,0.0
+cat__tracado_via_Em Obras;Aclive;Reta,0.0
+cat__tracado_via_Em Obras;Aclive;Rotatória,0.0
+cat__tracado_via_Em Obras;Curva,0.0
+cat__tracado_via_Em Obras;Curva;Aclive,0.0
+cat__tracado_via_Em Obras;Curva;Declive,0.0
+cat__tracado_via_Em Obras;Curva;Desvio Temporário,0.0
+cat__tracado_via_Em Obras;Curva;Interseção de Vias,0.0
+cat__tracado_via_Em Obras;Curva;Rotatória,0.0
+cat__tracado_via_Em Obras;Declive,0.0
+cat__tracado_via_Em Obras;Declive;Curva,0.0
+cat__tracado_via_Em Obras;Aclive;Desvio Temporário;Reta,0.0
+cat__tracado_via_Curva;Interseção de Vias;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Curva;Interseção de Vias;Retorno Regulamentado,0.0
+cat__tracado_via_Curva;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Curva;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Curva;Interseção de Vias;Viaduto;Declive,0.0
+cat__tracado_via_Curva;Ponte,0.0
+cat__tracado_via_Curva;Ponte;Declive,0.0
+cat__tracado_via_Curva;Retorno Regulamentado,0.0
+cat__tracado_via_Curva;Retorno Regulamentado;Aclive,0.0
+cat__tracado_via_Declive;Retorno Regulamentado,0.0
+cat__tracado_via_Curva;Retorno Regulamentado;Viaduto,0.0
+cat__tracado_via_Curva;Rotatória,0.0
+cat__tracado_via_Curva;Rotatória;Aclive,0.0
+cat__tracado_via_Curva;Rotatória;Declive;Interseção de Vias,0.0
+cat__tracado_via_Curva;Rotatória;Interseção de Vias,0.0
+cat__tracado_via_Curva;Rotatória;Interseção de Vias;Declive,0.0
+cat__tracado_via_Curva;Rotatória;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Curva;Rotatória;Viaduto,0.0
+cat__tracado_via_Curva;Túnel,0.0
+cat__tracado_via_Curva;Viaduto,0.0
+cat__tracado_via_Curva;Retorno Regulamentado;Declive,0.0
+cat__tracado_via_Curva;Aclive;Retorno Regulamentado,0.0
+cat__tracado_via_Curva;Aclive;Retorno Regulamentado;Viaduto,0.0
+cat__tracado_via_Curva;Aclive;Rotatória,0.0
+cat__tracado_via_Curva;Aclive;Viaduto,0.0
+cat__tracado_via_Curva;Declive,0.0
+cat__tracado_via_Curva;Declive;Em Obras,0.0
+cat__tracado_via_Curva;Declive;Interseção de Vias,0.0
+cat__tracado_via_Curva;Declive;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Curva;Declive;Retorno Regulamentado,0.0
+cat__tracado_via_Curva;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Curva;Declive;Viaduto,0.0
+cat__tracado_via_Curva;Desvio Temporário,0.0
+cat__tracado_via_Curva;Desvio Temporário;Em Obras,0.0
+cat__tracado_via_Curva;Em Obras,0.0
+cat__tracado_via_Curva;Em Obras;Declive,0.0
+cat__tracado_via_Curva;Em Obras;Desvio Temporário,0.0
+cat__tracado_via_Curva;Interseção de Vias,0.0
+cat__tracado_via_Curva;Interseção de Vias;Aclive,0.0
+cat__tracado_via_Curva;Interseção de Vias;Aclive;Rotatória,0.0
+cat__tracado_via_Curva;Interseção de Vias;Declive,0.0
+cat__tracado_via_Curva;Declive;Rotatória,0.0
+cat__tracado_via_Declive;Interseção de Vias;Em Obras,0.0
+cat__tracado_via_Declive;Interseção de Vias;Reta,0.0
+cat__tracado_via_Declive;Interseção de Vias;Reta;Rotatória,0.0
+cat__tracado_via_Declive;Interseção de Vias;Retorno Regulamentado;Reta,0.0
+cat__tracado_via_Declive;Interseção de Vias;Retorno Regulamentado;Viaduto,0.0
+cat__tracado_via_Declive;Interseção de Vias;Rotatória,0.0
+cat__tracado_via_Declive;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Declive;Interseção de Vias;Viaduto;Curva,0.0
+cat__tracado_via_Declive;Interseção de Vias;Viaduto;Reta,0.0
+cat__tracado_via_Curva;Viaduto;Aclive,0.0
+cat__tracado_via_Declive;Ponte;Reta,0.0
+cat__tracado_via_Declive;Reta,0.0
+cat__tracado_via_Declive;Reta;Desvio Temporário,0.0
+cat__tracado_via_Declive;Reta;Em Obras,0.0
+cat__tracado_via_Declive;Reta;Interseção de Vias,0.0
+cat__tracado_via_Declive;Reta;Interseção de Vias;Retorno Regulamentado,0.0
+cat__tracado_via_Declive;Reta;Ponte,0.0
+cat__tracado_via_Declive;Reta;Retorno Regulamentado,0.0
+cat__tracado_via_Declive;Reta;Viaduto,0.0
+cat__tracado_via_Declive;Reta;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Declive;Ponte,0.0
+cat__tracado_via_Curva;Viaduto;Declive,0.0
+cat__tracado_via_Curva;Viaduto;Declive;Interseção de Vias,0.0
+cat__tracado_via_Curva;Viaduto;Em Obras,0.0
+cat__tracado_via_Curva;Viaduto;Interseção de Vias,0.0
+cat__tracado_via_Curva;Viaduto;Retorno Regulamentado,0.0
+cat__tracado_via_Curva;Viaduto;Rotatória,0.0
+cat__tracado_via_Declive,0.0
+cat__tracado_via_Declive;Curva,0.0
+cat__tracado_via_Declive;Curva;Desvio Temporário,0.0
+cat__tracado_via_Declive;Curva;Em Obras,0.0
+cat__tracado_via_Declive;Interseção de Vias,0.0
+cat__tracado_via_Declive;Curva;Interseção de Vias;Retorno Regulamentado,0.0
+cat__tracado_via_Declive;Curva;Interseção de Vias;Viaduto,0.0
+cat__tracado_via_Declive;Curva;Ponte,0.0
+cat__tracado_via_Declive;Curva;Retorno Regulamentado,0.0
+cat__tracado_via_Declive;Curva;Rotatória,0.0
+cat__tracado_via_Declive;Curva;Viaduto,0.0
+cat__tracado_via_Declive;Desvio Temporário,0.0
+cat__tracado_via_Declive;Em Obras,0.0
+cat__tracado_via_Declive;Em Obras;Curva,0.0
+cat__tracado_via_Declive;Em Obras;Reta,0.0
+cat__tracado_via_Declive;Curva;Interseção de Vias,0.0

@@ -1,0 +1,13 @@
+{
+  "amostras_total": 72529,
+  "treino": 58023,
+  "teste": 14506,
+  "acuracia": 0.8034606369778022,
+  "precisao": 0.9013197105151128,
+  "recall": 0.8621925395015475,
+  "f1": 0.8813220663530783,
+  "classes": {
+    "0": "Sem vítimas",
+    "1": "Com vítimas"
+  }
+}
